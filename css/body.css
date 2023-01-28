@@ -1,0 +1,5 @@
+/* 渐变背景:破碎的心 */
+body{
+background-image:
+-webkit-linear-gradient(60deg,#ff9393,#fffcdc);
+}
